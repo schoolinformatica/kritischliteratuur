@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Doel en doelgroep}{2}
+\contentsline {section}{\numberline {2}Thema en inhoud}{3}
+\contentsline {section}{\numberline {3}Abstract}{4}
+\contentsline {section}{\numberline {4}Waarom is de AI onze vriend?}{4}
+\contentsline {section}{\numberline {5}Waarom is de AI onze vijand?}{4}
+\contentsline {section}{\numberline {6}Conclusie}{4}
