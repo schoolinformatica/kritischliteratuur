@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.10)  17 JAN 2017 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.10)  18 JAN 2017 16:44
 entering extended mode
 **"C:/Users/steve/Documents/latex/literatuur/kritische literatuur.tex"
 ("C:/Users/steve/Documents/latex/literatuur/kritische literatuur.tex"
@@ -44,7 +44,8 @@ Package: cite 2015/02/27  v 5.5
 ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) ("kritische literatuur.aux")
+)
+No file "kritische literatuur".aux.
 \openout1 = `"kritische literatuur.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -65,58 +66,120 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 25.
- [1
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("kritische literatuur.toc")
+No file "kritische literatuur".toc.
 \tf@toc=\write3
 \openout3 = `"kritische literatuur.toc"'.
 
- [1]
+[1]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 32.
  [2] [3]
+
+LaTeX Warning: Citation `breinoverbodig' on page 4 undefined on input line 84.
+
+
+LaTeX Warning: Citation `stephenhawking' on page 4 undefined on input line 90.
+
+
+LaTeX Warning: Citation `computerziekenhuis' on page 4 undefined on input line 
+94.
+
+
+LaTeX Warning: Citation `medischerobots' on page 4 undefined on input line 95.
+
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no « in font cmr10!
- [4] [5] ("kritische literatuur.bbl"
-Underfull \hbox (badness 2111) in paragraph at lines 40--44
+
+LaTeX Warning: Citation `veebot' on page 4 undefined on input line 97.
+
+[4]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no « in font cmr10!
+ [5]
+
+LaTeX Warning: Citation `robotsamenleving' undefined on input line 115.
+
+
+LaTeX Warning: Citation `vriendofvijand' undefined on input line 115.
+
+
+LaTeX Warning: Citation `arbeidsmarkt' undefined on input line 115.
+
+
+LaTeX Warning: Citation `breinoverbodig' undefined on input line 115.
+
+
+LaTeX Warning: Citation `stephenhawking' undefined on input line 115.
+
+
+LaTeX Warning: Citation `killemachine' undefined on input line 115.
+
+
+LaTeX Warning: Citation `uitgeroeid' undefined on input line 115.
+
+
+LaTeX Warning: Citation `autonomous' undefined on input line 115.
+
+
+LaTeX Warning: Citation `benificialai' undefined on input line 115.
+
+
+LaTeX Warning: Citation `pastandfuture' undefined on input line 115.
+
+
+LaTeX Warning: Citation `computerziekenhuis' undefined on input line 115.
+
+("kritische literatuur.bbl"
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no « in font cmr10!
+
+Underfull \hbox (badness 2111) in paragraph at lines 74--78
 \OT1/cmr/m/n/10 ned-er-landse ar-bei-ds-markt. [On-line]. Avail-able: $https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--44
+Underfull \hbox (badness 10000) in paragraph at lines 74--78
 \OT1/cmr/m/n/10 / / www2 . deloitte . com / content / dam / Deloitte / nl / Doc
 uments / -[]analytics /
  []
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-) [6] ("kritische literatuur.aux") ) 
+[6]) [7] ("kritische literatuur.aux")
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 566 strings out of 493334
- 6816 string characters out of 3139251
- 62195 words of memory out of 3000000
- 4147 multiletter control sequences out of 15000+200000
+ 565 strings out of 493334
+ 6764 string characters out of 3139251
+ 63195 words of memory out of 3000000
+ 4150 multiletter control sequences out of 15000+200000
  8110 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,10n,43p,522b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmtt12.pfb>
-Output written on "kritische literatuur.pdf" (7 pages, 144395 bytes).
+ 26i,10n,43p,522b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "kritische literatuur.pdf" (8 pages, 140272 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
