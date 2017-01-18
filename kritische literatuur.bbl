@@ -21,27 +21,6 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{robotsamenleving}
-\BIBentryALTinterwordspacing
-R.~van Est~en Linda~Kool. (2015) Werken aan de robotsamenleving. [Online].
-  Available:
-  \url{http://sro.sussex.ac.uk/63737/4/Werken_aan_de_robotsamenleving_-_Rathenau_Instituut%20(1)%20(1).pdf}
-\BIBentrySTDinterwordspacing
-
-\bibitem{vriendofvijand}
-\BIBentryALTinterwordspacing
-K.~Disch. (2015) Kunstmatige intelligentie: vriend of vijand? [Online].
-  Available:
-  \url{https://openaccess.leidenuniv.nl/bitstream/handle/1887/36339/Scriptie%20K.Y.%20Disch%20def.pdf?sequence=1}
-\BIBentrySTDinterwordspacing
-
-\bibitem{arbeidsmarkt}
-\BIBentryALTinterwordspacing
-Deloitte. (2014) De impact van automatisering op de nederlandse arbeidsmarkt.
-  [Online]. Available:
-  \url{https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/-analytics/-nl-data-analytics-impact-van-automatisering-op-de-nl-arbeidsmarkt.pdf}
-\BIBentrySTDinterwordspacing
-
 \bibitem{breinoverbodig}
 \BIBentryALTinterwordspacing
 M.~Wohlsen. (2014) Google’s grand plan to make your brain irrelevant.
@@ -54,6 +33,47 @@ M.~Wohlsen. (2014) Google’s grand plan to make your brain irrelevant.
 R.~Cellan-Jones. (2014) Stephen hawking warns artificial intelligence could end
   mankind. [Online]. Available:
   \url{http://www.bbc.com/news/technology-30290540}
+\BIBentrySTDinterwordspacing
+
+\bibitem{computerziekenhuis}
+\BIBentryALTinterwordspacing
+A.~T.~G. Schreiber. (nb) Computers: heelmeesters van de toekomst? [Online].
+  Available:
+  \url{https://pdfs.semanticscholar.org/fc16/26d1a95040ffb392ddab57c7b4fcf43c36d6.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{medischerobots}
+\BIBentryALTinterwordspacing
+P.~J.~V. SLOTEN. (2013) Ingenieur en arts, samen voor een efficiëntere
+  gezondheidszorg. [Online]. Available:
+  \url{http://hiw.kuleuven.be/ned/lessen/cursusmateriaal/1314/vandersloten.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{veebot}
+\BIBentryALTinterwordspacing
+Veebot. (2014) The veebot story. [Online]. Available:
+  \url{http://www.veebot.com/about.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{vriendofvijand}
+\BIBentryALTinterwordspacing
+K.~Disch. (2015) Kunstmatige intelligentie: vriend of vijand? [Online].
+  Available:
+  \url{https://openaccess.leidenuniv.nl/bitstream/handle/1887/36339/Scriptie%20K.Y.%20Disch%20def.pdf?sequence=1}
+\BIBentrySTDinterwordspacing
+
+\bibitem{robotsamenleving}
+\BIBentryALTinterwordspacing
+R.~van Est~en Linda~Kool. (2015) Werken aan de robotsamenleving. [Online].
+  Available:
+  \url{http://sro.sussex.ac.uk/63737/4/Werken_aan_de_robotsamenleving_-_Rathenau_Instituut%20(1)%20(1).pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{arbeidsmarkt}
+\BIBentryALTinterwordspacing
+Deloitte. (2014) De impact van automatisering op de nederlandse arbeidsmarkt.
+  [Online]. Available:
+  \url{https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/-analytics/-nl-data-analytics-impact-van-automatisering-op-de-nl-arbeidsmarkt.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{killemachine}
