@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.30)  18 JAN 2017 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.30)  18 JAN 2017 17:15
 entering extended mode
-**"./kritische literatuur.tex"
-("kritische literatuur.tex"
+**"C:/Users/ceesj/Documents/kritischliteratuur/kritische literatuur.tex"
+("C:/Users/ceesj/Documents/kritischliteratuur/kritische literatuur.tex"
 LaTeX2e <2016/03/31> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -104,13 +104,13 @@ uments / -[]analytics /
 
 [7]) [8] ("kritische literatuur.aux") ) 
 Here is how much of TeX's memory you used:
- 568 strings out of 493335
- 6830 string characters out of 3136680
+ 569 strings out of 493335
+ 6962 string characters out of 3136680
  63178 words of memory out of 3000000
  4149 multiletter control sequences out of 15000+200000
  8110 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,10n,43p,1748b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 26i,10n,43p,1790b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
@@ -123,7 +123,7 @@ s/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsl10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt
 12.pfb>
-Output written on "kritische literatuur.pdf" (9 pages, 150886 bytes).
+Output written on "kritische literatuur.pdf" (9 pages, 151333 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
