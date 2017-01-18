@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.30)  18 JAN 2017 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.30)  18 JAN 2017 16:58
 entering extended mode
 **"C:/Users/ceesj/Documents/kritischliteratuur/kritische literatuur.tex"
 ("C:/Users/ceesj/Documents/kritischliteratuur/kritische literatuur.tex"
@@ -81,7 +81,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2] [3]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no « in font cmr10!
- [4] [5]
+ [4] [5] [6]
 ("kritische literatuur.bbl"
 Underfull \hbox (badness 2111) in paragraph at lines 40--44
 \OT1/cmr/m/n/10 ned-er-landse ar-bei-ds-markt. [On-line]. Avail-able: $https :
@@ -96,7 +96,7 @@ uments / -[]analytics /
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [6] ("kritische literatuur.aux") ) 
+) [7] ("kritische literatuur.aux") ) 
 Here is how much of TeX's memory you used:
  566 strings out of 493335
  6918 string characters out of 3136680
@@ -117,9 +117,9 @@ m/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 sl10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.
 pfb>
-Output written on "kritische literatuur.pdf" (7 pages, 146709 bytes).
+Output written on "kritische literatuur.pdf" (8 pages, 148007 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
